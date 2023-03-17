@@ -1,0 +1,1 @@
+Read-Host -AsSecureString |ConvertFrom-SecureString |Out-File C:\Credentials\SQLPassword.txt $EncryptedSQLPass = Get-Content -Path C:\Credentials\SQLPassword.txt
