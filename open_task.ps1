@@ -1,0 +1,1 @@
+﻿cd C:\install\LIA-JIRA\bulk_task_creation.py
